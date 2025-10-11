@@ -1,0 +1,15 @@
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\bin\Debug\net9.0\ECommerce.Auth.API.deps.json
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\bin\Debug\net9.0\ECommerce.Auth.API.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\bin\Debug\net9.0\ECommerce.Auth.API.pdb
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\bin\Debug\net9.0\ECommerce.Auth.Application.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\bin\Debug\net9.0\ECommerce.Auth.Application.pdb
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.csproj.AssemblyReference.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerc.FA20A115.Up2Date
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\refint\ECommerce.Auth.API.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.pdb
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ref\ECommerce.Auth.API.dll
