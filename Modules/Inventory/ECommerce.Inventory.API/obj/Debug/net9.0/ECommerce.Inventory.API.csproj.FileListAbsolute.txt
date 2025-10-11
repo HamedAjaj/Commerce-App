@@ -1,0 +1,12 @@
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\bin\Debug\net9.0\ECommerce.Inventory.API.deps.json
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\bin\Debug\net9.0\ECommerce.Inventory.API.dll
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\bin\Debug\net9.0\ECommerce.Inventory.API.pdb
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.sourcelink.json
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.dll
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\refint\ECommerce.Inventory.API.dll
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ECommerce.Inventory.API.pdb
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.API\obj\Debug\net9.0\ref\ECommerce.Inventory.API.dll

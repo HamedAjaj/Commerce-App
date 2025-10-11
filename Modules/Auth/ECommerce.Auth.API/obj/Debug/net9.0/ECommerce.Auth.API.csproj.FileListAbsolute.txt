@@ -8,6 +8,7 @@ D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECom
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.AssemblyInfoInputs.cache
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.AssemblyInfo.cs
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.sourcelink.json
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerc.FA20A115.Up2Date
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\ECommerce.Auth.API.dll
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.API\obj\Debug\net9.0\refint\ECommerce.Auth.API.dll

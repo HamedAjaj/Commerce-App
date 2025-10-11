@@ -5,6 +5,7 @@ D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Aut
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\ECommerce.Auth.Application.AssemblyInfoInputs.cache
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\ECommerce.Auth.Application.AssemblyInfo.cs
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\ECommerce.Auth.Application.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\ECommerce.Auth.Application.sourcelink.json
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\ECommerce.Auth.Application.dll
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\refint\ECommerce.Auth.Application.dll
 D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Application\ECommerce.Auth.Application\obj\Debug\net9.0\ECommerce.Auth.Application.pdb

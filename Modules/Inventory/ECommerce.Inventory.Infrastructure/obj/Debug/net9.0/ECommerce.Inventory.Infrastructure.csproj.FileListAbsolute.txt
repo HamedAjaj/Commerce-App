@@ -1,0 +1,12 @@
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\bin\Debug\net9.0\ECommerce.Inventory.Infrastructure.deps.json
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\bin\Debug\net9.0\ECommerce.Inventory.Infrastructure.dll
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\bin\Debug\net9.0\ECommerce.Inventory.Infrastructure.pdb
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.sourcelink.json
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.dll
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\refint\ECommerce.Inventory.Infrastructure.dll
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ECommerce.Inventory.Infrastructure.pdb
+D:\Projects one\E-Commerce\Modules\Inventory\ECommerce.Inventory.Infrastructure\obj\Debug\net9.0\ref\ECommerce.Inventory.Infrastructure.dll
