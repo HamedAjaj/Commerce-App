@@ -1,4 +1,4 @@
-﻿namespace ECommerce.Auth.API
+﻿namespace ECommerce.Payments.API
 {
     public class Class1
     {

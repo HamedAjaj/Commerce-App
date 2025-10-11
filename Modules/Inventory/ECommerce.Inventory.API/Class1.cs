@@ -1,4 +1,4 @@
-﻿namespace ECommerce.Auth.Application
+﻿namespace ECommerce.Inventory.API
 {
     public class Class1
     {
