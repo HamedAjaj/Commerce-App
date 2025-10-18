@@ -1,5 +1,7 @@
 using ECommerce.Catalog.API.Dependency;
 using ECommerce.Catalog.Infrastructure;
+using ECommerce.Inventory.API.Dependencies;
+using ECommerce.Inventory.Infrastructure;
 using ECommerce.Orders.API.Dependency;
 using ECommerce.Orders.Infrastructure;
 using ECommerce.SharedKernel.Dependencies;
@@ -19,7 +21,7 @@ builder.Services.AddSwaggerGen();
 // Add Modules
 builder.Services.AddSharedKernelDependancies();
 builder.Services.AddOrdersModule(builder.Configuration);
-//builder.Services.AddInventoryModule(builder.Configuration);
+builder.Services.AddInventoryModule(builder.Configuration);
 builder.Services.AddCatalogModule(builder.Configuration);
 
 var app = builder.Build();
@@ -31,13 +33,30 @@ using (var scope = app.Services.CreateScope())
     var services = scope.ServiceProvider;
 
     var ordersDb = services.GetRequiredService<OrdersDbContext>();
+    // In Development only: drop and recreate orders DB to ensure a clean schema during local development.
+    // WARNING: This deletes data. Do NOT enable in production.
+    if (app.Environment.IsDevelopment())
+    {
+        ordersDb.Database.EnsureDeleted();
+    }
     ordersDb.Database.Migrate();
 
-    //var inventoryDb = services.GetRequiredService<InventoryDbContext>();
-    //inventoryDb.Database.Migrate();
+    var inventoryDb = services.GetRequiredService<InventoryDbContext>();
+    if (app.Environment.IsDevelopment())
+    {
+        inventoryDb.Database.EnsureDeleted();
+    }
+    inventoryDb.Database.Migrate();
 
     var catalogDb = services.GetRequiredService<CatalogDbContext>();
+    if (app.Environment.IsDevelopment())
+    {
+        catalogDb.Database.EnsureDeleted();
+    }
     catalogDb.Database.Migrate();
+ 
+
+    
 }
 
 

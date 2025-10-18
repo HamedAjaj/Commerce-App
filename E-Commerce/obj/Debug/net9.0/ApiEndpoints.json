@@ -10,6 +10,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ECommerce.Inventory.API.Controllers.InventoryController",
+    "Method": "GetStatus",
+    "RelativePath": "api/Inventory/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ECommerce.Orders.API.Controllers.OrdersController",
     "Method": "GetOrders",
     "RelativePath": "api/Orders",

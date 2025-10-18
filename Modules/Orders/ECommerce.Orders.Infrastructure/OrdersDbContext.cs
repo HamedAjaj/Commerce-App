@@ -1,11 +1,7 @@
 ﻿using ECommerce.Orders.Domain.Entity;
+using ECommerce.Orders.Infrastructure.Configurations;
 using ECommerce.SharedKernel;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ECommerce.Orders.Infrastructure
 {
@@ -15,5 +11,10 @@ namespace ECommerce.Orders.Infrastructure
          
         public DbSet<Order> Orders => SetEntity<Order>();
         public DbSet<OrderItem> OrderItems => SetEntity<OrderItem>();
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfiguration(new OrderItemConfiguration());
+        }
     }
 }
