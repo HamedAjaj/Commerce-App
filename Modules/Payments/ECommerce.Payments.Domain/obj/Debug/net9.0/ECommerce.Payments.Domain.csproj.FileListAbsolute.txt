@@ -1,0 +1,12 @@
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\bin\Debug\net9.0\ECommerce.Payments.Domain.deps.json
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\bin\Debug\net9.0\ECommerce.Payments.Domain.dll
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\bin\Debug\net9.0\ECommerce.Payments.Domain.pdb
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.sourcelink.json
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.dll
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\refint\ECommerce.Payments.Domain.dll
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ECommerce.Payments.Domain.pdb
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.Domain\obj\Debug\net9.0\ref\ECommerce.Payments.Domain.dll

@@ -13,15 +13,25 @@ namespace ECommerce.Auth.Domain.Entities
     {
         public string FullName { get; set; }
         public Address? Address { get; set; }
-        // Domain behaviors and methods can be added here
-        public void UpdateFullNme(string fullName)
+        public ICollection<RefreshToken> RefreshTokens { get; set; } = new List<RefreshToken>();
+
+        public ApplicationUser() { } 
+        public ApplicationUser(string userName, string email, string fullName) : base(userName)
         {
-            if (string.IsNullOrWhiteSpace(fullName))
-            {
-                throw new ArgumentException("Full name cannot be empty.", nameof(fullName));
-            }
+            Id = Guid.NewGuid();
+            userName = userName;
+            Email = email;
+            FullName = fullName;
+            EmailConfirmed = false;
+        }
+
+        // Domain behaviors and methods can be added here
+        public void  UpdateFullName(string fullName)
+        {  if (string.IsNullOrWhiteSpace(fullName)) throw new ArgumentException("Full name required");
             FullName = fullName.Trim();
         }
+
+     
 
         public void UpdateAddress(Address address)
         {

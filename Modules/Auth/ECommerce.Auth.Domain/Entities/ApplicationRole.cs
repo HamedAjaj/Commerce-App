@@ -17,3 +17,4 @@ namespace ECommerce.Auth.Domain.Entities
         }
     }
 }
+ 

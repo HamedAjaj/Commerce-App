@@ -1,0 +1,16 @@
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\bin\Debug\net9.0\ECommerce.Auth.Domain.deps.json
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\bin\Debug\net9.0\ECommerce.Auth.Domain.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\bin\Debug\net9.0\ECommerce.Auth.Domain.pdb
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\bin\Debug\net9.0\ECommerce.SharedKernel.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\bin\Debug\net9.0\ECommerce.SharedKernel.pdb
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.csproj.AssemblyReference.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.sourcelink.json
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerc.0722CE3E.Up2Date
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\refint\ECommerce.Auth.Domain.dll
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ECommerce.Auth.Domain.pdb
+D:\Projects one\E-Commerce\Modules\Auth\ECommerce.Auth.Domain\obj\Debug\net9.0\ref\ECommerce.Auth.Domain.dll

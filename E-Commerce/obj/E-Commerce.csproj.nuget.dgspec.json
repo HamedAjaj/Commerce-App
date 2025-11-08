@@ -33,6 +33,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.API\\ECommerce.Auth.API.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.API\\ECommerce.Auth.API.csproj"
+              },
               "D:\\Projects one\\E-Commerce\\Modules\\Catalog\\ECommerce.Catalog.API\\ECommerce.Catalog.API.csproj": {
                 "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Catalog\\ECommerce.Catalog.API\\ECommerce.Catalog.API.csproj"
               },
@@ -64,6 +67,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
@@ -94,6 +101,307 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.API\\ECommerce.Auth.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.API\\ECommerce.Auth.API.csproj",
+        "projectName": "ECommerce.Auth.API",
+        "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.API\\ECommerce.Auth.API.csproj",
+        "packagesPath": "C:\\Users\\LOQ\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LOQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj"
+              },
+              "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Infrastructure\\ECommerce.Auth.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Infrastructure\\ECommerce.Auth.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj",
+        "projectName": "ECommerce.Auth.Application",
+        "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj",
+        "packagesPath": "C:\\Users\\LOQ\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LOQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Domain\\ECommerce.Auth.Domain.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Domain\\ECommerce.Auth.Domain.csproj"
+              },
+              "D:\\Projects one\\E-Commerce\\Modules\\SharedKernel\\ECommerce.SharedKernel\\ECommerce.SharedKernel.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\SharedKernel\\ECommerce.SharedKernel\\ECommerce.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Domain\\ECommerce.Auth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Domain\\ECommerce.Auth.Domain.csproj",
+        "projectName": "ECommerce.Auth.Domain",
+        "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Domain\\ECommerce.Auth.Domain.csproj",
+        "packagesPath": "C:\\Users\\LOQ\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LOQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Projects one\\E-Commerce\\Modules\\SharedKernel\\ECommerce.SharedKernel\\ECommerce.SharedKernel.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\SharedKernel\\ECommerce.SharedKernel\\ECommerce.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Infrastructure\\ECommerce.Auth.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Infrastructure\\ECommerce.Auth.Infrastructure.csproj",
+        "projectName": "ECommerce.Auth.Infrastructure",
+        "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Infrastructure\\ECommerce.Auth.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\LOQ\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\LOQ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\Auth\\ECommerce.Auth.Application\\ECommerce.Auth.Application\\ECommerce.Auth.Application.csproj"
+              },
+              "D:\\Projects one\\E-Commerce\\Modules\\SharedKernel\\ECommerce.SharedKernel\\ECommerce.SharedKernel.csproj": {
+                "projectPath": "D:\\Projects one\\E-Commerce\\Modules\\SharedKernel\\ECommerce.SharedKernel\\ECommerce.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -998,6 +1306,10 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Asp.Versioning.Mvc": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
               "version": "[12.0.0, )"

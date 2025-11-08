@@ -7,9 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="IdentityConfig\" />
-    <Folder Include="Services\" />
-    <Folder Include="Persistence\" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\SharedKernel\ECommerce.SharedKernel\ECommerce.SharedKernel.csproj" />
+    <ProjectReference Include="..\ECommerce.Auth.Application\ECommerce.Auth.Application\ECommerce.Auth.Application.csproj" />
   </ItemGroup>
 
 </Project>

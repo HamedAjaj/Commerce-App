@@ -1,3 +1,5 @@
+using ECommerce.Auth.API.Dependencies;
+using ECommerce.Auth.Infrastructure.Identity;
 using ECommerce.Catalog.API.Dependency;
 using ECommerce.Catalog.Infrastructure;
 using ECommerce.Inventory.API.Dependencies;
@@ -23,6 +25,7 @@ builder.Services.AddSharedKernelDependancies();
 builder.Services.AddOrdersModule(builder.Configuration);
 builder.Services.AddInventoryModule(builder.Configuration);
 builder.Services.AddCatalogModule(builder.Configuration);
+builder.Services.AddAuthModule(builder.Configuration);
 
 var app = builder.Build();
  
@@ -35,6 +38,7 @@ using (var scope = app.Services.CreateScope())
     var ordersDb = services.GetRequiredService<OrdersDbContext>();
     // In Development only: drop and recreate orders DB to ensure a clean schema during local development.
     // WARNING: This deletes data. Do NOT enable in production.
+   
     if (app.Environment.IsDevelopment())
     {
         ordersDb.Database.EnsureDeleted();
@@ -54,6 +58,13 @@ using (var scope = app.Services.CreateScope())
         catalogDb.Database.EnsureDeleted();
     }
     catalogDb.Database.Migrate();
+
+    var authDb = services.GetRequiredService<AuthDbContext>();
+    if (app.Environment.IsDevelopment())
+    {
+        authDb.Database.EnsureDeleted();
+    }
+    authDb.Database.Migrate();
  
 
     
@@ -76,6 +87,8 @@ if (app.Environment.IsDevelopment())
 //}
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
