@@ -27,6 +27,13 @@ namespace ECommerce.SharedKernel.ValueObjects
             ZipCode = zipCode;
         }
         public override string ToString() => $"{Street}, {City}, {ZipCode}, {Country}";
+        public override bool Equals(object? obj)
+        {
+            if (obj is not Address other) return false;
+            return Country == other.Country && City == other.City && Street == other.Street && ZipCode == other.ZipCode;
+        }
+
+        public override int GetHashCode() => HashCode.Combine(Country, City, Street, ZipCode);
 
     }
 }

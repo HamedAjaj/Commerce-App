@@ -1,0 +1,12 @@
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\bin\Debug\net9.0\ECommerce.Customers.Application.deps.json
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\bin\Debug\net9.0\ECommerce.Customers.Application.dll
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\bin\Debug\net9.0\ECommerce.Customers.Application.pdb
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.sourcelink.json
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.dll
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\refint\ECommerce.Customers.Application.dll
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ECommerce.Customers.Application.pdb
+D:\Projects one\E-Commerce\Modules\Customers\ECommerce.Customers.Application\obj\Debug\net9.0\ref\ECommerce.Customers.Application.dll

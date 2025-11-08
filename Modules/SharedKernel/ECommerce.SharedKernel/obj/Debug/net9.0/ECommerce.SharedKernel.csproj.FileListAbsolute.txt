@@ -1,0 +1,15 @@
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\bin\Debug\net9.0\ECommerce.SharedKernel.deps.json
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\bin\Debug\net9.0\ECommerce.SharedKernel.runtimeconfig.json
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\bin\Debug\net9.0\ECommerce.SharedKernel.dll
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\bin\Debug\net9.0\ECommerce.SharedKernel.pdb
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.csproj.AssemblyReference.cache
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.sourcelink.json
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.dll
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\refint\ECommerce.SharedKernel.dll
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.pdb
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ECommerce.SharedKernel.genruntimeconfig.cache
+D:\Projects one\E-Commerce\Modules\SharedKernel\ECommerce.SharedKernel\obj\Debug\net9.0\ref\ECommerce.SharedKernel.dll

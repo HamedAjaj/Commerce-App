@@ -35,7 +35,7 @@ namespace ECommerce.Catalog.Application.Behaviors
                 if (failures.Count != 0)
                     throw new ValidationException(failures);
             }
-
+            // I want to do response style
             return await next();
         }
     }

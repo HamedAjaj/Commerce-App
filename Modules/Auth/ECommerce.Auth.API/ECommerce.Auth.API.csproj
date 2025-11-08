@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ECommerce.Auth.Application\ECommerce.Auth.Application\ECommerce.Auth.Application.csproj" />
+    <ProjectReference Include="..\ECommerce.Auth.Infrastructure\ECommerce.Auth.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

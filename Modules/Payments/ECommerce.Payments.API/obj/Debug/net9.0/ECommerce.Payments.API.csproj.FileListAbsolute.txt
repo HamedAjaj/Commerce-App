@@ -1,0 +1,12 @@
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\bin\Debug\net9.0\ECommerce.Payments.API.deps.json
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\bin\Debug\net9.0\ECommerce.Payments.API.dll
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\bin\Debug\net9.0\ECommerce.Payments.API.pdb
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.AssemblyInfoInputs.cache
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.AssemblyInfo.cs
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.csproj.CoreCompileInputs.cache
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.sourcelink.json
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.dll
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\refint\ECommerce.Payments.API.dll
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ECommerce.Payments.API.pdb
+D:\Projects one\E-Commerce\Modules\Payments\ECommerce.Payments.API\obj\Debug\net9.0\ref\ECommerce.Payments.API.dll
